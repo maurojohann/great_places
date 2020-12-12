@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>	
+	<key>NSCameraUsageDescription</key>
+	<string>We need to take a picture</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need to take a picture</string>	
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
