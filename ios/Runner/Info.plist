@@ -8,6 +8,10 @@
 	<string>We need to take a picture</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>We need to take a picture</string>	
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need to take a Location</string>	
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We need to take a Location</string>	
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
