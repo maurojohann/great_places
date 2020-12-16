@@ -14,7 +14,7 @@ Nele foi possível aprender algumas tecnologias, como o consumo da API do Google
 -  http: ^0.12.2
 
 ## Screenshot
-![GIF](/ScreenShots/GreatPlacesApp.gif)  
+![GreatPlacesApp](https://user-images.githubusercontent.com/15696360/102395266-a5514b00-3fb9-11eb-88dc-8a280b94627f.gif)  
 
 ## How TO Install 
 Voce pode testar este app instalando o APK disponivel [aqui](/ScreenShotsAPK/app-release.apk)

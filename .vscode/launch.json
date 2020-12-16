@@ -7,7 +7,11 @@
         {
             "name": "great_places",
             "request": "launch",
+<<<<<<< HEAD
             "type": "dart"            
+=======
+            "type": "dart"
+>>>>>>> 150f588351383686af7736d4784ca1d15b795fce
         }
     ]
 }
